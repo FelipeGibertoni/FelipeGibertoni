@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me fegibertoni@hotmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I lost myself with my classmates in a forest when i was in high school.
 
 <!---
 FelipeGibertoni/FelipeGibertoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
