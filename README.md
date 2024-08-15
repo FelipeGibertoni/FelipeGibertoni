@@ -9,7 +9,8 @@
 ## Sobre mim
 
 Estudo licenciatura em matemática na Universidade de São Paulo, trabalhei maior parte da vida no suporte da Riot Games, 
-agora estou entrando um pouco no mundo da programação dentro do ramo educacional na [Alura](https://www.alura.com.br/).
+agora estou entrando um pouco no mundo da programação dentro do ramo educacional na [Alura](https://www.alura.com.br/) 
+como Monitor de Fórum.
 
 ### Contatos:
 
